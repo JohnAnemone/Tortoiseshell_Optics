@@ -97,7 +97,7 @@ nav {
     }
   }
 
- @media only screen and (max-width: 450px) {
+ @media only screen and (max-width: 370px) {
   .container {
     width: 100%;
   }
@@ -173,7 +173,7 @@ nav {
   display: none;
 }
 
-@media only screen and (max-width: 450px) {
+@media only screen and (max-width: 370px) {
   .services {
   display: block;
   margin: 3.77rem 0;
@@ -221,7 +221,7 @@ nav {
   width: 43%;
 }
 
-@media only screen and (max-width: 450px) {
+@media only screen and (max-width: 370px) {
   .lower {
     display: block;
   }
@@ -254,7 +254,7 @@ nav {
   vertical-align: middle;
 }
 
-@media only screen and (max-width: 450px) {
+@media only screen and (max-width: 370px) {
   .footer {
     display: flex;
     justify-content: center;
